@@ -1,0 +1,7 @@
+Select control stores – explore the data and define metrics for your control store selection – think about what would make them a control store.
+ Look at the drivers and make sure you visualise these in a graph to better determine if they are suited. For this piece it may even be worth creating a function to help you. 
+
+Assessment of the trial – this one should give you some interesting insights into each of the stores, check each trial store individually in comparison with the control store
+ to get a clear view of its overall performance. We want to know if the trial stores were successful or not. 
+
+Collate findings – summarise your findings for each store and provide an recommendation that we can share with Julia outlining the impact on sales during the trial period.
