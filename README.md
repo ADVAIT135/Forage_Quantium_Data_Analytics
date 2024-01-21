@@ -15,3 +15,5 @@ This Repository consist of all the Jupyter Notebooks, PowerBI, PDF and Excel fil
 
 ## Task 3: Analytics and Commercial Applications
 ### [PPT for Task 3](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage_Quantium_Data_Analytics%2Fmain%2FTask%25203%2520%253A%2520Analytics%2520and%2520Commercial%2520Application%2FTask%25203%2520-%2520Presentation%2520Analytics%2520and%2520Commercial%2520Application.pptx&wdOrigin=BROWSELINK)
+
+# [Completion Certificate](https://github.com/ADVAIT135/Forage_Quantium_Data_Analytics/blob/c87c324db1f3d56f630d5671b2c67676820bd1b6/NkaC7knWtjSbi6aYv_Quantium_xHj9pxotQTSvEtW8B_1705818950042_completion_certificate.pdf)
